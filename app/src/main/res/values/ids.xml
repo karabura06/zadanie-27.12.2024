@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewOutput" type="id" />
+    <item name="buttonSend" type="id" />
+    <item name="editTextInput" type="id" />
+    <item name="fragmentContainer" type="id" />
+</resources>
